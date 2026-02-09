@@ -38,6 +38,7 @@ There are already quite a lot of Google and YouTube resources to be honest. Ones
 * [Brunton & Kutz book](https://databookuw.com/)
 * [scikit-learn manual](https://scikit-learn.org/stable/)
 * [Michael Pyrcz](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)
+* [Deep Learning with Python](https://deeplearningwithpython.io/)
 * [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 ### known things to add/check:
