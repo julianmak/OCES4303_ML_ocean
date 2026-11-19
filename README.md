@@ -16,7 +16,7 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 ### Topics included here
 
-Will not be touching on LLMs here. Core topics are:
+Core topics are:
 
 1. Data handling in Python by demonstration
 2. Regression, statistics/probability, data scaling and cross-validation
@@ -29,7 +29,7 @@ Will not be touching on LLMs here. Core topics are:
 9. Convolutional Neural Networks
 10. Some other neural network architectures
 
-Extra topics to include AI + Ethics, PINNs, SINDy, online learning, diffusion models, GANs, TDA, others that I feel like at some point.
+Extra topics to include transformers, AI + Ethics, PINNs, SINDy, online learning, diffusion models, GANs, TDA, others that I feel like at some point.
 
 ### Other resources of use
 
